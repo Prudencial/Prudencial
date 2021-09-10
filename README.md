@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prudencial
-- 👀 I’m interested in Dat science
+- 👀 I’m interested in Data science
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on different projects
 
